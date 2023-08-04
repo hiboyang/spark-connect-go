@@ -19,8 +19,8 @@ package main
 import (
 	"context"
 	"flag"
-	proto "github.com/apache/spark-connect-go/v_3_4/internal/generated"
 	"github.com/google/uuid"
+	proto "github.com/hiboyang/spark-connect-go/v_3_4/internal/generated"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"log"

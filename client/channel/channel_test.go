@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/apache/spark-connect-go/v_3_4/client/channel"
+	"github.com/hiboyang/spark-connect-go/v_3_4/client/channel"
 	"github.com/stretchr/testify/assert"
 )
 

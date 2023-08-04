@@ -21,9 +21,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/apache/spark-connect-go/v_3_4/client/channel"
-	proto "github.com/apache/spark-connect-go/v_3_4/internal/generated"
 	"github.com/google/uuid"
+	"github.com/hiboyang/spark-connect-go/v_3_4/client/channel"
+	proto "github.com/hiboyang/spark-connect-go/v_3_4/internal/generated"
 	"google.golang.org/grpc/metadata"
 	"io"
 )

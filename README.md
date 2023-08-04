@@ -14,7 +14,7 @@ if it is not sustainable.
 
 ### Getting started
 ```
-git clone https://github.com/apache/spark-connect-go.git
+git clone https://github.com/hiboyang/spark-connect-go.git
 git submodule update --init --recursive
 
 make gen && make test
