@@ -20,7 +20,7 @@ import (
 	"context"
 	"flag"
 	"github.com/google/uuid"
-	proto "github.com/hiboyang/spark-connect-go/v_3_4/internal/generated"
+	proto "github.com/hiboyang/spark-connect-go/v34/internal/generated"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"log"

@@ -20,7 +20,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/hiboyang/spark-connect-go/v_3_4/client/sql"
+	"github.com/hiboyang/spark-connect-go/v34/client/sql"
 )
 
 var (
